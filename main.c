@@ -1,1 +1,7 @@
-C:\Users\asyva\chessviz-asyvavy
+#include <stdio.h>
+
+int main(){
+    printf("ooo");
+
+    return 0;
+}
